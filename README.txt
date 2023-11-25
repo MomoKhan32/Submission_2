@@ -8,4 +8,3 @@ BRAC-CSE-718 Task-2 PDF and Video Submission
 >>>>>>> Individual Submitter
 >>>>>>> ID - 23273010
 >>>>>>> Name - Marium Khan Momo
->>>>>>> I also already uploaded slide, ppt and report pdf here
